@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package>
-  <name>robond-simple_arm</name>
+  <name>robond_simple_arm</name>
   <version>0.0.0</version>
   <description>The simple_arm add-on package</description>
 

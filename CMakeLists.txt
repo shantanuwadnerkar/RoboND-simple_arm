@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8.3)
-project(robond-simple_arm)
+project(robond_simple_arm)
 add_compile_options(-std=c++11)
 
 find_package(catkin REQUIRED COMPONENTS
