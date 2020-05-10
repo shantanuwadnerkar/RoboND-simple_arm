@@ -18,7 +18,7 @@ include_directories(include ${catkin_INCLUDE_DIRS})
 
 add_executable(simple_mover src/simple_mover.cpp)
 target_link_libraries(simple_mover ${catkin_LIBRARIES})
-add_dependencies(simple_mover simple_arm_generate_messages_cpp)
+# add_dependencies(simple_mover simple_arm_generate_messages_cpp)
 
 
 
